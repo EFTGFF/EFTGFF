@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EFTGFF
 - 👀 I’m interested in play computer
-- 🌱 I’m currently learning languages likes C++,Python and Java
+- 🌱 I’m currently learning languages likes C++ and Python
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me 2331406523@qq.com
 - 😄 Pronouns: Happy
